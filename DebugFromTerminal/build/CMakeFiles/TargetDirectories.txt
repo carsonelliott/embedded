@@ -1,0 +1,3 @@
+/Users/carson/Desktop/embedded/DebugFromTerminal/build/CMakeFiles/DebugFromTerminal.elf.dir
+/Users/carson/Desktop/embedded/DebugFromTerminal/build/CMakeFiles/edit_cache.dir
+/Users/carson/Desktop/embedded/DebugFromTerminal/build/CMakeFiles/rebuild_cache.dir
